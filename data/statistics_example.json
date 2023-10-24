@@ -1,20 +1,22 @@
-[
-  {
-    "dataSource": "INSEED",
-    "category": "sales-index",
-    "fileLinks": [
-      {
-        "name": "Bulletin de publication de l’Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
-        "link": "https://inseed.tg/download/4688/?tmstv=1698146165"
-      },
-      {
-        "name": "Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
-        "link": "https://inseed.tg/download/4661/?tmstv=1698146165"
-      },
-      {
-        "name": "Indice du chiffre d’affaires dans le Commerce (Premier trimestre 2023)",
-        "link": "https://inseed.tg/download/4665/?tmstv=1698146165"
-      }
-    ]
-  }
-]
+{
+  "industry_data": [
+    {
+      "data_source": "INSEED",
+      "category": "sales-index",
+      "files": [
+        {
+          "title": "Bulletin de publication de l’Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
+          "link": "https://inseed.tg/download/4688/?tmstv=1698146165"
+        },
+        {
+          "title": "Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
+          "link": "https://inseed.tg/download/4661/?tmstv=1698146165"
+        },
+        {
+          "title": "Indice du chiffre d’affaires dans le Commerce (Premier trimestre 2023)",
+          "link": "https://inseed.tg/download/4665/?tmstv=1698146165"
+        }
+      ]
+    }
+  ]
+}

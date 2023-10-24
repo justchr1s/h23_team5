@@ -1,0 +1,20 @@
+[
+  {
+    "dataSource": "INSEED",
+    "category": "sales-index",
+    "fileLinks": [
+      {
+        "name": "Bulletin de publication de l’Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
+        "link": "https://inseed.tg/download/4688/?tmstv=1698146165"
+      },
+      {
+        "name": "Indice du chiffre d’affaires dans les Services (Premier trimestre 2023)",
+        "link": "https://inseed.tg/download/4661/?tmstv=1698146165"
+      },
+      {
+        "name": "Elliot Page",
+        "link": "Indice du chiffre d’affaires dans la Construction (Premier trimestre 2023)"
+      }
+    ]
+  }
+]
